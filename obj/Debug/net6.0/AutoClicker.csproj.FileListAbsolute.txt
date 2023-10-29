@@ -1,0 +1,14 @@
+C:\Users\FCTK\Desktop\Phu Project\AotoClicker\AutoClicker\AutoClicker\bin\Debug\net6.0\AutoClicker.exe
+C:\Users\FCTK\Desktop\Phu Project\AotoClicker\AutoClicker\AutoClicker\bin\Debug\net6.0\AutoClicker.deps.json
+C:\Users\FCTK\Desktop\Phu Project\AotoClicker\AutoClicker\AutoClicker\bin\Debug\net6.0\AutoClicker.runtimeconfig.json
+C:\Users\FCTK\Desktop\Phu Project\AotoClicker\AutoClicker\AutoClicker\bin\Debug\net6.0\AutoClicker.dll
+C:\Users\FCTK\Desktop\Phu Project\AotoClicker\AutoClicker\AutoClicker\bin\Debug\net6.0\AutoClicker.pdb
+C:\Users\FCTK\Desktop\Phu Project\AotoClicker\AutoClicker\AutoClicker\obj\Debug\net6.0\AutoClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FCTK\Desktop\Phu Project\AotoClicker\AutoClicker\AutoClicker\obj\Debug\net6.0\AutoClicker.AssemblyInfoInputs.cache
+C:\Users\FCTK\Desktop\Phu Project\AotoClicker\AutoClicker\AutoClicker\obj\Debug\net6.0\AutoClicker.AssemblyInfo.cs
+C:\Users\FCTK\Desktop\Phu Project\AotoClicker\AutoClicker\AutoClicker\obj\Debug\net6.0\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\FCTK\Desktop\Phu Project\AotoClicker\AutoClicker\AutoClicker\obj\Debug\net6.0\AutoClicker.dll
+C:\Users\FCTK\Desktop\Phu Project\AotoClicker\AutoClicker\AutoClicker\obj\Debug\net6.0\refint\AutoClicker.dll
+C:\Users\FCTK\Desktop\Phu Project\AotoClicker\AutoClicker\AutoClicker\obj\Debug\net6.0\AutoClicker.pdb
+C:\Users\FCTK\Desktop\Phu Project\AotoClicker\AutoClicker\AutoClicker\obj\Debug\net6.0\AutoClicker.genruntimeconfig.cache
+C:\Users\FCTK\Desktop\Phu Project\AotoClicker\AutoClicker\AutoClicker\obj\Debug\net6.0\ref\AutoClicker.dll
